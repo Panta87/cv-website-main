@@ -3,10 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+in order to run the application this must be installed:
 
 ### `npm install`
-
 ### `npm i @fortawesome/react-fontawesome`
 ### `npm i @fortawesome/free-solid-svg-icons`
 ### `npm i react-icons`
