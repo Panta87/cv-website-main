@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  padding: 24px;
+  border-radius: 6px;
+  background-image: linear-gradient(
+    to top,
+    hsl(208, 86%, 70%) 0%,
+    hsl(210, 64%, 34%) 100%
+  );
+  .header {
+    display: flex;
+    justify-content: flex-end;
+    .modal-close {
+      cursor: pointer;
+      border: none;
+      color: white;
+      background-color: transparent;
+      font-size: 16px;
+    }
+  }
+}

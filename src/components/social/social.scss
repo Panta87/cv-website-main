@@ -1,0 +1,23 @@
+.social {
+    margin-top: 30px;
+    a {
+      color: rgba(255, 255, 255, 0.7);
+      transition: all 0.2s linear;
+      &:hover,
+      &:focus {
+        color: rgba(255, 255, 255, 1);
+      }
+    }
+    i {
+      font-size: 28px;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+          display: inline-block;
+          margin-right: 5px;
+      }
+    } 
+  }

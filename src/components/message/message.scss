@@ -1,0 +1,17 @@
+.message {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 6px;
+  padding: 30px;
+  background-color:hsl(208, 86%, 51%) ;
+  color: white;
+  .email {
+    text-decoration: underline;
+  }
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 20px;
+  border-radius: 4px;
+
+}
