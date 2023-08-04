@@ -42,7 +42,7 @@
       padding-top: 60px;
       padding-bottom: 60px;
       margin-right: 0;
-      width: 100%;
+      width: 90%;
       position: relative;
       .bio {
         position: relative;
@@ -66,12 +66,16 @@
       margin-left: 0;
       position: relative;
       padding: 20px;
+      width: 90%;
       .title .item h3 span {
         display: block;
       }
       .title .item p {
         width: 100%;
         text-align: justify;
+      }
+      .w33 {
+        width:50%
       }
     }
   }
