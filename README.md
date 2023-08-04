@@ -1,11 +1,17 @@
-# Getting Started with Create React App
-
+# CV Website ReactJS SCSS
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `npm install`
+
+### `npm i @fortawesome/react-fontawesome`
+### `npm i @fortawesome/free-solid-svg-icons`
+### `npm i react-icons`
+### `npm i font-awesome`
+### `npm install sass`
 ### `npm start`
 
 Runs the app in the development mode.\
