@@ -9,6 +9,9 @@
   cursor: pointer;
   margin-top: 20px;
   
+  &-disabled {
+    background-color: darkgrey;
+  }
  
   &:hover {
     transform: translateY(-5px);
