@@ -10,7 +10,7 @@
     padding: 30px;
     box-shadow: 4px 0px 5px -2px rgba(94, 94, 94, 0.81);
     text-align: center;
-    width: 360px;
+    width: 450px;
     color: white;
     height: 100%;
     background-image: linear-gradient(
@@ -42,7 +42,7 @@
       padding-top: 60px;
       padding-bottom: 60px;
       margin-right: 0;
-      width: 90%;
+      width: 100%;
       position: relative;
       .bio {
         position: relative;
@@ -66,16 +66,20 @@
       margin-left: 0;
       position: relative;
       padding: 20px;
-      width: 90%;
+      width: 100%;
       .title .item h3 span {
         display: block;
       }
       .title .item p {
-        width: 100%;
+        width:100%;
         text-align: justify;
       }
       .w33 {
-        width:50%
+        width:50%;
+        display: inline-block;
+      }
+      .popup {
+        right: -70%;
       }
     }
   }
